@@ -1,0 +1,1 @@
+To solve this issue, modify the function to explicitly return an empty string when the intended result is an empty value.  For example, instead of returning NULL, use COALESCE or ISNULL functions to handle the NULL values and return an empty string.  See `bugSolution.sql` for corrected code.
