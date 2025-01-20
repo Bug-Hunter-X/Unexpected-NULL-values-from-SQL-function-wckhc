@@ -1,0 +1,1 @@
+This repository contains a demonstration of a common SQL error where a function returns NULL when an empty string is expected, leading to issues in applications processing query results.  The `bug.sql` file shows the erroneous query, while `bugSolution.sql` presents the corrected version.
