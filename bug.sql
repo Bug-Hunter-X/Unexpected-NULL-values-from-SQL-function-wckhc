@@ -1,0 +1,1 @@
+The SQL query uses a function that returns a null value when it should return an empty string. This can cause unexpected behavior in applications that use the query results.
